@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'TOPSIS-Anshul-101803408',         # How you named your package folder (MyLib)
   packages = ['TOPSIS-Anshul-101803408'],   # Chose the same as "name"
-  version = '0.1',      # Start with a small number and increase it with every change you make
+  version = '0.2',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'This Library helps to generate TOPSIS score as well as Rank for any given set of Model Parameters',   # Give a short description about your library
   author = 'Anshul Jain',                   # Type in your name
